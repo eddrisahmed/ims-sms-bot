@@ -19,11 +19,11 @@ USERNAME   = "masud5798"
 PASSWORD   = "aass1122"
 
 # Telegram Details
-BOT_TOKEN         = "8635389248:AAE-bQqg_-u6yeD1nBeHBW6ZEdM1Bvjbz9Q"
-PRIVATE_CHAT      = "-1003768912547" 
-PUBLIC_CHAT       = "-1003999544274" 
-BOT_LINK          = "https://t.me/Number1275_Bot"          
-MAIN_CHANNEL_LINK = "https://t.me/Snakemethod" 
+BOT_TOKEN         = "8919940174:AAHOHgXvbP6XwFinz7hNLhjq8Q2IezNhwgM"
+PRIVATE_CHAT      = "-1002027724549" 
+PUBLIC_CHAT       = "-1002147306390" 
+BOT_LINK          = "https://t.me/OTPShooterBot"          
+MAIN_CHANNEL_LINK = "https://t.me/PanelVertex" 
 
 CHECK_INTERVAL = 60
 SENT_IDS_FILE  = "sent_ids_final_v6.json" # নতুন ফাইল যাতে পুরানো মেসেজগুলোও আসে
